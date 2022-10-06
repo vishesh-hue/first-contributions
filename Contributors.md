@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Vishesh Tiwari](https://github.com/vishesh-hue)
 - [Tieran Dysart](https://github.com/whyyy1)
 - [Siggy73](https://github.com/Siggy73)
 - [Jassim](https://github.com/jazz96)
